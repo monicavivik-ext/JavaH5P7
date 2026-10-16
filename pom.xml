@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>id.pjj</groupId>
+    <artifactId>java-fundamental-hari5</artifactId>
+    <version>1.0</version>
+    <packaging>jar</packaging>
+    <name>PJJ Java Fundamental - Hari 5</name>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <!-- Kode ini sengaja dibuat kompatibel dengan Java 11 (syarat minimal KAP).
+             Tetap berjalan di JDK 17, 21, maupun 25. -->
+        <maven.compiler.release>11</maven.compiler.release>
+        <!-- Kelas yang dijalankan saat menekan Run Project (F6) di NetBeans.
+             Untuk menjalankan file lain: klik kanan file > Run File (Shift+F6). -->
+        <exec.mainClass>hari5.sesi1.exception.KalkulatorRapuh</exec.mainClass>
+    </properties>
+</project>

@@ -1,0 +1,13 @@
+# Turnamen Tetris daring - format: nama;skor
+Rani;9800
+Budi;7450
+Citra;12050
+
+Dodi;sembilan ribu
+Eka;6300
+Fajar;-150
+Gita;8800
+Hadi 5400
+Indah;11200
+;3000
+Joko;7450
